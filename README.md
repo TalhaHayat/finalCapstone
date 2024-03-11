@@ -53,4 +53,5 @@ Upon running the script, you will be prompted with a login screen. Use the follo
 ## Credits
 
 Written by Talha Hayat as part of the Hyperion Bootcamp.
+
 Project Link: "https://github.com/TalhaHayat/finalCapstone"
