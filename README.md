@@ -33,7 +33,7 @@ The Task Management System is a simple yet powerful tool designed to help teams 
 To run the Task Management System, execute:
 
 ```sh
-python task_manager.py
+python finalCapstone.py
 ```
 
 Follow the on-screen prompts to interact with the system.
