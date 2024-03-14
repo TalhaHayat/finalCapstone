@@ -21,7 +21,7 @@ The Task Management System is a simple yet powerful tool designed to help teams 
 
 1. Clone the repository to your local machine:
    ```sh
-   git clone https://github.com/yourusername/finalCapstone.git
+   git clone https://github.com/TalhaHayat/finalCapstone.git
    ```
 2. Navigate to the cloned repository:
    ```sh
